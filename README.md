@@ -1,6 +1,6 @@
 # Library-Book-Management-System
 # Assignment Details
-- Assignment Number:** 02  
+- Assignment Number: 02  
 - Theme:Linear Data Structures – Single Linked List and Stack  
 - Course:[B.Tech CSE Data Science]  
 - Student Name:[Utsav Singhal]  
